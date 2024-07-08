@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiler files
 cache/
 out/
@@ -19,3 +20,24 @@ docs/
 # zksync
 
 zkout/
+=======
+.env
+script.md
+notes.md
+foundry*/
+remix*/
+html*/
+.previously_installed_extensions.txt
+
+nfts-foundry-course/
+foundry-*/
+remix*/
+html*/
+background*
+.DS_Store
+img/
+brownie-contracts-nfts/
+tweet.md
+nfts-zksync-foundry/ 
+nfts-zksync-hardhat/
+>>>>>>> upstream/main
